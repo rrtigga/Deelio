@@ -1,0 +1,30 @@
+{
+  "name": "deelio",
+  "version": "1.0.0",
+  "description": "Deals near you right now!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrtigga/Deelio.git"
+  },
+  "keywords": [
+    "Deals",
+    "near",
+    "you",
+    "right",
+    "now",
+    "location"
+  ],
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrtigga/Deelio/issues"
+  },
+  "homepage": "https://github.com/rrtigga/Deelio#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
